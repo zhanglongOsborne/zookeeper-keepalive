@@ -1,0 +1,6 @@
+2016-11-22 21:37:28.11s INFO   (log_format:zclient.c:160) [] - 成功建立连接
+2016-11-22 21:37:28.11s INFO   (log_format:zclient.c:171) [] - 成功建立状态检测线程
+2016-11-22 21:37:43.11s INFO   (log_format:zclient.c:160) [] - 成功建立连接
+2016-11-22 21:37:43.11s INFO   (log_format:zclient.c:171) [] - 成功建立状态检测线程
+2016-11-22 21:37:43.11s INFO   (log_format:zclient.c:36) [] - re-connect: a new connect is set up
+2016-11-22 21:37:43.11s INFO   (log_format:zclient.c:48) [] - 恢复现场成功
